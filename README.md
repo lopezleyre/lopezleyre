@@ -20,3 +20,41 @@ Y aquí estoy, con ya unos cuantos proyectos realizados y puedo decir que estoy 
 <a href="https://linkedin.com/in/lopezleyre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lopezleyre" height="30" width="40" /></a>
 </p>
 
+## Proyectos
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">WHAT CAN WE EXPECT AS DATA ANALYSTS?</h3>
+<div align="center">
+<a href="https://public.tableau.com/views/ProyectoData_17296201057520/DATA?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank"><img src= "https://imgur.com/ZkgmPGu.jpg" width="400" alt="Proyecto Tableau Data"></a>
+<p>
+<a href="https://public.tableau.com/shared/364RH2TZK?:display_count=n&:origin=viz_share_link" target="_blank">
+<img src="https://img.shields.io/badge/TABLEAU-ff9?style=for-the-badge&logo=tableau&logoColor=black">
+</a>
+
+</a>
+</p>
+<p>Proyecto realizado en Tableau "What can we expect as Data Analysts?". Análisis de un dataset con información sobre género, edad, puesto de trabajo, lenguajes de programación recomendados y salario.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">TIPOS DE PERSONALIDAD</h3>
+<div align="center">                                       
+<a href="https://public.tableau.com/views/ProyectoPersonalities/Introduccion?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank"><img src="https://imgur.com/t5XQqef.jpg" width="400" alt="Proyecto Tipos de personalidad"></a>
+<br>
+<p>
+<a href="https://public.tableau.com/views/ProyectoPersonalities/Introduccion?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
+<img src="https://img.shields.io/badge/TABLEAU-ff9?style=for-the-badge&logo=tableau&logoColor=black">
+</a>
+</a>
+</p>
+</p>Análisis de un dataset sobre los tipos de personalidad MBTI según género, educación y puntuación MBTI. </p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+                                                           
+
