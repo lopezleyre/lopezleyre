@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hola 👋, Me llamo Leyre López de Silanes</h1>
+<h1 align="center">Hola 👋, Soy Leyre López de Silanes</h1>
 <h3 align="center">Data Analyst</h3>
 
 Desde pequeña, siempre sentí una curiosidad especial por la informática, una atracción que no podía definir del todo. Aunque elegí inicialmente otras áreas, hace un par de años descubrí el mundo de los datos, y con él, el potencial de Python y Tableau. En ese momento, algo hizo “click”: supe que quería dedicarme a esto.
