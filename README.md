@@ -1,13 +1,19 @@
 
 
 <h1 align="center">Hola 👋, Me llamo Leyre López de Silanes</h1>
-<h3 align="center">Soy una Data Analyst</h3>
+<h3 align="center">Data Analyst</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/lopezleyre/](https://www.linkedin.com/in/lopezleyre/)
+Desde pequeña, siempre sentí una curiosidad especial por la informática, una atracción que no podía definir del todo. Aunque elegí inicialmente otras áreas, hace un par de años descubrí el mundo de los datos, y con él, el potencial de Python y Tableau. En ese momento, algo hizo “click”: supe que quería dedicarme a esto.
+
+Comencé a aprender de manera autodidacta, viendo videos y explorando recursos en línea, confirmando que realmente era lo que me apasionaba. Mi interés me llevó a profundizar aún más, y decidí dar el siguiente paso con un Bootcamp, para adquirir una base sólida y una guía práctica en este campo.
+
+Y aquí estoy, con ya unos cuantos proyectos realizados y puedo decir que estoy deseando empezar a desarrollar todos mis conocimientos en mi día a día, en el mundo laboral ✨.
+
+- 👨‍💻 Todos mis proyectos están disponibles en [https://www.linkedin.com/in/lopezleyre/](https://www.linkedin.com/in/lopezleyre/)
 
 - 💬 Pregúntame sobre **Python, SQL, Tableau, Power BI**
 
-- 📫 How to reach me **leyre.ibz@gmail.com**
+- 📫 Me puedes contactar en: **leyre.ibz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
